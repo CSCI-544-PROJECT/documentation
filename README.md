@@ -15,5 +15,6 @@
 ## Resources
 
 * [PROJECT PROPOSAL](./PROJECT-PROPOSAL.pdf)
+* [Akbari21a](./Akbari21a.pdf)
 * [Understanding OG VATT - GPT_Gen](./VATT_understanding_the_OG.md)
 * [Understanding OG VATT - Brainstorm](./VATT_understanding_the_OG_handwritten.pdf)
