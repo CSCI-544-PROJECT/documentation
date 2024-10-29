@@ -15,3 +15,5 @@
 ## Resources
 
 * [PROJECT PROPOSAL](./PROJECT-PROPOSAL.pdf)
+* [Understanding OG VATT - GPT_Gen](./VATT_understanding_the_OG.md)
+* [Understanding OG VATT - Brainstorm](./VATT_understanding_the_OG_handwritten.pdf)
